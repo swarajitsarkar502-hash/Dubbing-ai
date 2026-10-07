@@ -1,0 +1,6 @@
+{
+  "name": "DubVani",
+  "description": "AI Video Dubbing Studio for Japanese to Hindi translation featuring voice cloning, dual-language synchronized subtitles, and audio timeline mixing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

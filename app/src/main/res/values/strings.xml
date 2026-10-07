@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DubVani</string>
+    <string name="tagline">Japanese to Hindi AI Dubbing Studio</string>
+    <string name="tab_studio">Dub Studio</string>
+    <string name="tab_subtitles">Subtitles</string>
+    <string name="tab_voice_clone">Voice Clone</string>
+    <string name="tab_export">Export &amp; Mix</string>
+</resources>
